@@ -1,0 +1,9894 @@
+{
+  "000_0.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "000_1.png": {
+    "tags": [
+      "a group",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "000_2.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "000_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "graduation gowns"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "000_4.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "000_5.png": {
+    "tags": [
+      "the stage"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_0.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_1.png": {
+    "tags": [
+      "a large crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_2.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_3.png": {
+    "tags": [
+      "a large crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_4.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "001_5.png": {
+    "tags": [
+      "a large group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_0.png": {
+    "tags": [
+      "the ice rink"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_1.png": {
+    "tags": [
+      "a hockey team",
+      "a game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_2.png": {
+    "tags": [
+      "a hockey game"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_3.png": {
+    "tags": [
+      "the ice rink"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_4.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "002_5.png": {
+    "tags": [
+      "a hockey game"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_0.png": {
+    "tags": [
+      "a boy",
+      "a red graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_1.png": {
+    "tags": [
+      "a woman",
+      "a red graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_2.png": {
+    "tags": [
+      "a woman",
+      "a red graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_3.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_4.png": {
+    "tags": [
+      "a man",
+      "a red graduation gown",
+      "cap"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "003_5.png": {
+    "tags": [
+      "a man",
+      "a red graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_0.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_1.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_2.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_3.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_4.png": {
+    "tags": [
+      "a crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "004_5.png": {
+    "tags": [
+      "a group",
+      "four graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_0.png": {
+    "tags": [
+      "a skate park"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_1.png": {
+    "tags": [
+      "a skate park"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_2.png": {
+    "tags": [
+      "a skate park"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_3.png": {
+    "tags": [
+      "a skate park"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_4.png": {
+    "tags": [
+      "a skateboarder",
+      "a skateboard",
+      "a ramp"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "005_5.png": {
+    "tags": [
+      "a skate park"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_0.png": {
+    "tags": [
+      "a pirate",
+      "a boat"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_1.png": {
+    "tags": [
+      "a pirate",
+      "a boat"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_2.png": {
+    "tags": [
+      "a man",
+      "a pirate"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_3.png": {
+    "tags": [
+      "a man",
+      "a pirate costume"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_4.png": {
+    "tags": [
+      "a man",
+      "a pirate costume"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "006_5.png": {
+    "tags": [
+      "a man",
+      "a bench"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_0.png": {
+    "tags": [
+      "a white house",
+      "a balcony"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_1.png": {
+    "tags": [
+      "a large white house"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_2.png": {
+    "tags": [
+      "a girl",
+      "a face"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_3.png": {
+    "tags": [
+      "a white house",
+      "a clock",
+      "the roof"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_4.png": {
+    "tags": [
+      "a white balcony railing"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "007_5.png": {
+    "tags": [
+      "a carousel",
+      "a man",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_0.png": {
+    "tags": [
+      "a woman",
+      "stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_1.png": {
+    "tags": [
+      "a man",
+      "stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_2.png": {
+    "tags": [
+      "a group",
+      "men",
+      "stage"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_3.png": {
+    "tags": [
+      "a man",
+      "a piano"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_4.png": {
+    "tags": [
+      "a woman",
+      "a stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "008_5.png": {
+    "tags": [
+      "man",
+      "a microphone"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a building"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_2.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_3.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_4.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "009_5.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_0.png": {
+    "tags": [
+      "three women",
+      "graduation gowns"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_2.png": {
+    "tags": [
+      "a woman",
+      "a white graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_3.png": {
+    "tags": [
+      "two women",
+      "graduation gowns"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_4.png": {
+    "tags": [
+      "two women",
+      "graduation gowns"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "010_5.png": {
+    "tags": [
+      "two women",
+      "graduation gowns"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_0.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_1.png": {
+    "tags": [
+      "a black metal railing"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_2.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_3.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_4.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "011_5.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_0.png": {
+    "tags": [
+      "a woman",
+      "two girls",
+      "candles",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_1.png": {
+    "tags": [
+      "a woman",
+      "two children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_2.png": {
+    "tags": [
+      "a woman",
+      "two young girls",
+      "candles",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_3.png": {
+    "tags": [
+      "a little girl",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_4.png": {
+    "tags": [
+      "a woman",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "012_5.png": {
+    "tags": [
+      "a girl",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_0.png": {
+    "tags": [
+      "a man",
+      "a musical instrument"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_1.png": {
+    "tags": [
+      "a man",
+      "a living room"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_2.png": {
+    "tags": [
+      "a man",
+      "guitar"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_3.png": {
+    "tags": [
+      "a man",
+      "front",
+      "a table",
+      "a bunch",
+      "records"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_4.png": {
+    "tags": [
+      "a man",
+      "a bat"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "013_5.png": {
+    "tags": [
+      "a group",
+      "people",
+      "drums",
+      "a living room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_0.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_1.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "chairs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_3.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_4.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "014_5.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_0.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_1.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_2.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_3.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_4.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "015_5.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_0.png": {
+    "tags": [
+      "a group",
+      "women",
+      "front",
+      "a house"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_1.png": {
+    "tags": [
+      "a group",
+      "girls"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a building"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_3.png": {
+    "tags": [
+      "a woman",
+      "a bench"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_4.png": {
+    "tags": [
+      "a group",
+      "women",
+      "a field"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "016_5.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "front",
+      "a house"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_0.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_2.png": {
+    "tags": [
+      "a man",
+      "a suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_3.png": {
+    "tags": [
+      "a man",
+      "a suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_4.png": {
+    "tags": [
+      "a man",
+      "a suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "017_5.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_0.png": {
+    "tags": [
+      "a woman",
+      "a pink shorts"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_1.png": {
+    "tags": [
+      "a woman",
+      "pink shorts"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_2.png": {
+    "tags": [
+      "a woman",
+      "a pink shorts"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_3.png": {
+    "tags": [
+      "a woman",
+      "a fence"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_4.png": {
+    "tags": [
+      "a woman",
+      "a sidewalk"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "018_5.png": {
+    "tags": [
+      "a woman",
+      "a sidewalk"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_0.png": {
+    "tags": [
+      "a screen",
+      "a white text",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_1.png": {
+    "tags": [
+      "a screen",
+      "a white screen"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_2.png": {
+    "tags": [
+      "a screen",
+      "a message"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_3.png": {
+    "tags": [
+      "a screen",
+      "a picture",
+      "a person",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_4.png": {
+    "tags": [
+      "a screen",
+      "a presentation",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "019_5.png": {
+    "tags": [
+      "a screen",
+      "a logo"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_0.png": {
+    "tags": [
+      "a vintage car",
+      "a parking lot"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_1.png": {
+    "tags": [
+      "a car",
+      "a parking lot",
+      "a man",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_2.png": {
+    "tags": [
+      "a blue and white car"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_3.png": {
+    "tags": [
+      "a black car"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_4.png": {
+    "tags": [
+      "a green car"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "020_5.png": {
+    "tags": [
+      "a couple",
+      "old cars",
+      "a parking"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_0.png": {
+    "tags": [
+      "a large group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_1.png": {
+    "tags": [
+      "a large group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_2.png": {
+    "tags": [
+      "a large group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_3.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_4.png": {
+    "tags": [
+      "a crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "021_5.png": {
+    "tags": [
+      "a group",
+      "graduates"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_0.png": {
+    "tags": [
+      "a man",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_1.png": {
+    "tags": [
+      "a baby",
+      "a high chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_2.png": {
+    "tags": [
+      "a baby",
+      "a high chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_3.png": {
+    "tags": [
+      "a baby",
+      "a high chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_4.png": {
+    "tags": [
+      "a baby",
+      "a high chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "022_5.png": {
+    "tags": [
+      "a baby",
+      "a high chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_0.png": {
+    "tags": [
+      "a large group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_1.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_2.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_3.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_4.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "023_5.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_0.png": {
+    "tags": [
+      "man",
+      "a santa suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_1.png": {
+    "tags": [
+      "man",
+      "a santa suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_2.png": {
+    "tags": [
+      "a woman",
+      "a chair"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_3.png": {
+    "tags": [
+      "a girl",
+      "a santa costume"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_4.png": {
+    "tags": [
+      "a man",
+      "a santa suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "024_5.png": {
+    "tags": [
+      "a man",
+      "a santa suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_0.png": {
+    "tags": [
+      "a man",
+      "a microphone",
+      "two other men",
+      "guitar"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_1.png": {
+    "tags": [
+      "a man",
+      "a microphone"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "music",
+      "a room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "music",
+      "a room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_4.png": {
+    "tags": [
+      "a man",
+      "a microphone",
+      "two other men",
+      "guitars"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "025_5.png": {
+    "tags": [
+      "a man",
+      "a microphone",
+      "front"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_0.png": {
+    "tags": [
+      "a man",
+      "a black shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_1.png": {
+    "tags": [
+      "a man",
+      "a gray shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_2.png": {
+    "tags": [
+      "a man",
+      "a stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_3.png": {
+    "tags": [
+      "a man",
+      "a black shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_4.png": {
+    "tags": [
+      "a man",
+      "a black shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "026_5.png": {
+    "tags": [
+      "a man",
+      "a podium"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_1.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table",
+      "wine"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_4.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "027_5.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_0.png": {
+    "tags": [
+      "a man",
+      "a rock"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_1.png": {
+    "tags": [
+      "a man",
+      "a rock"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_2.png": {
+    "tags": [
+      "a man"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_3.png": {
+    "tags": [
+      "a man"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_4.png": {
+    "tags": [
+      "a man",
+      "a rock face"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "028_5.png": {
+    "tags": [
+      "a woman"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "skates"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "skates",
+      "a street"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "skateboards"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_4.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a game",
+      "roller skate"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "029_5.png": {
+    "tags": [
+      "a group",
+      "women",
+      "roller skates"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_0.png": {
+    "tags": [
+      "a group",
+      "children",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_1.png": {
+    "tags": [
+      "a group",
+      "children",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_2.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_3.png": {
+    "tags": [
+      "a group",
+      "children",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_4.png": {
+    "tags": [
+      "a group",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "030_5.png": {
+    "tags": [
+      "a group",
+      "children",
+      "a cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_0.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_2.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_3.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_4.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "031_5.png": {
+    "tags": [
+      "a basketball court"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_0.png": {
+    "tags": [
+      "a woman",
+      "a white skirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_1.png": {
+    "tags": [
+      "a man",
+      "white pants"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_2.png": {
+    "tags": [
+      "a man"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_3.png": {
+    "tags": [
+      "a woman",
+      "a white dress"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_4.png": {
+    "tags": [
+      "a man"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "032_5.png": {
+    "tags": [
+      "a man",
+      "a white shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_0.png": {
+    "tags": [
+      "a bride",
+      "groom kissing"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_2.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_3.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "steps"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_4.png": {
+    "tags": [
+      "a woman",
+      "the sidewalk"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "033_5.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "a picture"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_0.png": {
+    "tags": [
+      "a man",
+      "front",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_1.png": {
+    "tags": [
+      "a man",
+      "a podium"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_2.png": {
+    "tags": [
+      "a man",
+      "a podium"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a screen"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_4.png": {
+    "tags": [
+      "a large screen"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "034_5.png": {
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a podium"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_0.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_1.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_2.png": {
+    "tags": [
+      "a woman",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_3.png": {
+    "tags": [
+      "a man",
+      "a stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_4.png": {
+    "tags": [
+      "a man",
+      "a graduation gown",
+      "a stage"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "035_5.png": {
+    "tags": [
+      "a man",
+      "a graduation gown"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_0.png": {
+    "tags": [
+      "a man",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_1.png": {
+    "tags": [
+      "a man",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_2.png": {
+    "tags": [
+      "a boy",
+      "the floor"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_3.png": {
+    "tags": [
+      "a man",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_4.png": {
+    "tags": [
+      "a man",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "036_5.png": {
+    "tags": [
+      "a baby",
+      "the floor"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_0.png": {
+    "tags": [
+      "a group",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_1.png": {
+    "tags": [
+      "a group",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_2.png": {
+    "tags": [
+      "a woman",
+      "two children"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_3.png": {
+    "tags": [
+      "a woman",
+      "two children",
+      "a field"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_4.png": {
+    "tags": [
+      "a woman",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "037_5.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a child"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_0.png": {
+    "tags": [
+      "a woman",
+      "a red dress"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_1.png": {
+    "tags": [
+      "a man",
+      "a suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_2.png": {
+    "tags": [
+      "a man",
+      "a woman",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_4.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "038_5.png": {
+    "tags": [
+      "a woman",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_0.png": {
+    "tags": [
+      "a statue",
+      "the background"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_1.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_2.png": {
+    "tags": [
+      "a statue",
+      "a bird"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_3.png": {
+    "tags": [
+      "a statue",
+      "a lion"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_4.png": {
+    "tags": [
+      "two women",
+      "a fountain"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "039_5.png": {
+    "tags": [
+      "a man",
+      "a bouquet"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_1.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_2.png": {
+    "tags": [
+      "a woman",
+      "glasses"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a room",
+      "a fan"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_4.png": {
+    "tags": [
+      "a woman",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "040_5.png": {
+    "tags": [
+      "a young boy",
+      "the camera"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_0.png": {
+    "tags": [
+      "a wall",
+      "pictures",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_1.png": {
+    "tags": [
+      "a wall",
+      "four pictures"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_2.png": {
+    "tags": [
+      "a white wall"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_3.png": {
+    "tags": [
+      "a wall",
+      "pictures",
+      "it"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_4.png": {
+    "tags": [
+      "a room",
+      "a wooden floor"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "041_5.png": {
+    "tags": [
+      "a room",
+      "a number",
+      "pictures",
+      "the wall"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_0.png": {
+    "tags": [
+      "a large white ship"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_1.png": {
+    "tags": [
+      "a large white ship"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_2.png": {
+    "tags": [
+      "a large white boat"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_3.png": {
+    "tags": [
+      "a large white ship"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_4.png": {
+    "tags": [
+      "a large white ship"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "042_5.png": {
+    "tags": [
+      "a large ship",
+      "the water"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_0.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "a room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_1.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_2.png": {
+    "tags": [
+      "a group",
+      "women",
+      "a couch"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_3.png": {
+    "tags": [
+      "a white bus"
+    ],
+    "tag_predictions": [
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_4.png": {
+    "tags": [
+      "a man",
+      "a brown shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "043_5.png": {
+    "tags": [
+      "a group",
+      "men",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a game",
+      "tennis"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_1.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a game",
+      "volleyball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_2.png": {
+    "tags": [
+      "a group",
+      "girls",
+      "a game",
+      "basketball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_3.png": {
+    "tags": [
+      "a group",
+      "women",
+      "a game",
+      "hockey"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_4.png": {
+    "tags": [
+      "a group",
+      "women",
+      "a game",
+      "volleyball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "044_5.png": {
+    "tags": [
+      "a man",
+      "a game",
+      "volleyball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_0.png": {
+    "tags": [
+      "a man",
+      "a platform"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_1.png": {
+    "tags": [
+      "a man",
+      "a boat"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_2.png": {
+    "tags": [
+      "a woman",
+      "a black bathing suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_3.png": {
+    "tags": [
+      "a man",
+      "a pool"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_4.png": {
+    "tags": [
+      "a man",
+      "a pool"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "045_5.png": {
+    "tags": [
+      "a man",
+      "a pool",
+      "a diving board"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_0.png": {
+    "tags": [
+      "a crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_1.png": {
+    "tags": [
+      "a crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_2.png": {
+    "tags": [
+      "a large auditorium",
+      "rows",
+      "people",
+      "chairs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_3.png": {
+    "tags": [
+      "a crowd",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_4.png": {
+    "tags": [
+      "a crowd",
+      "people",
+      "a hall"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "046_5.png": {
+    "tags": [
+      "a group",
+      "people"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_0.png": {
+    "tags": [
+      "a woman",
+      "two children",
+      "a stone fireplace"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_1.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "a stone fireplace"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_2.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "a stone fireplace"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_3.png": {
+    "tags": [
+      "a family",
+      "a picture"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_4.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "front",
+      "a fireplace"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "047_5.png": {
+    "tags": [
+      "a family",
+      "a couch"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_0.png": {
+    "tags": [
+      "a couple",
+      "a picture"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_1.png": {
+    "tags": [
+      "a couple",
+      "a field"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_2.png": {
+    "tags": [
+      "a field",
+      "green grass"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a river"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_4.png": {
+    "tags": [
+      "a woman",
+      "a white dress"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "048_5.png": {
+    "tags": [
+      "a couple",
+      "a kite"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_0.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a christmas tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_1.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a couch"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_2.png": {
+    "tags": [
+      "a man",
+      "a blue shirt"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_3.png": {
+    "tags": [
+      "a group",
+      "people",
+      "a couch"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_4.png": {
+    "tags": [
+      "a man",
+      "woman",
+      "a table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "049_5.png": {
+    "tags": [
+      "a woman",
+      "a baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_0.png": {
+    "tags": [
+      "woman",
+      "standing",
+      "next",
+      "man",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_1.png": {
+    "tags": [
+      "man",
+      "smiling",
+      "are",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_2.png": {
+    "tags": [
+      "front",
+      "woman",
+      "picture",
+      "man",
+      "posing",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_3.png": {
+    "tags": [
+      "front",
+      "woman",
+      "standing",
+      "man",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_4.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "050_5.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_0.png": {
+    "tags": [
+      "cake",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_1.png": {
+    "tags": [
+      "sitting",
+      "woman",
+      "cake",
+      "table",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_2.png": {
+    "tags": [
+      "man",
+      "cake",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_3.png": {
+    "tags": [
+      "sitting",
+      "woman",
+      "cake",
+      "table",
+      "are",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_4.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "051_5.png": {
+    "tags": [
+      "man",
+      "cake",
+      "cutting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_0.png": {
+    "tags": [
+      "photo",
+      "people",
+      "posing",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_1.png": {
+    "tags": [
+      "photo",
+      "pose",
+      "wedding",
+      "their",
+      "party",
+      "couple"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_2.png": {
+    "tags": [
+      "aisle",
+      "woman",
+      "walking",
+      "man",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_3.png": {
+    "tags": [
+      "people",
+      "their",
+      "group",
+      "holding",
+      "cards",
+      "hands",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_4.png": {
+    "tags": [
+      "men",
+      "singing",
+      "choir",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "052_5.png": {
+    "tags": [
+      "gold",
+      "bro",
+      "red",
+      "brooch"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_0.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_1.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_2.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_3.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_4.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "053_5.png": {
+    "tags": [
+      "high",
+      "baby",
+      "chair"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_0.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_1.png": {
+    "tags": [
+      "stage",
+      "man",
+      "guitar",
+      "microphone",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_2.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_3.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_4.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "054_5.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_0.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_1.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_2.png": {
+    "tags": [
+      "cap",
+      "graduation",
+      "wearing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_3.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_4.png": {
+    "tags": [
+      "cap",
+      "graduation",
+      "wearing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "055_5.png": {
+    "tags": [
+      "cap",
+      "man",
+      "wearing",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_0.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_1.png": {
+    "tags": [
+      "white",
+      "man",
+      "paper",
+      "holding"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_2.png": {
+    "tags": [
+      "men",
+      "two",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_3.png": {
+    "tags": [
+      "men",
+      "two",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_4.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "056_5.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_0.png": {
+    "tags": [
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_1.png": {
+    "tags": [
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_2.png": {
+    "tags": [
+      "girls",
+      "floor",
+      "two",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_3.png": {
+    "tags": [
+      "floor",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_4.png": {
+    "tags": [
+      "floor",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "057_5.png": {
+    "tags": [
+      "floor",
+      "sitting",
+      "girl"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_0.png": {
+    "tags": [
+      "comic",
+      "cast",
+      "vampire",
+      "con"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_1.png": {
+    "tags": [
+      "white",
+      "is",
+      "panel"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_2.png": {
+    "tags": [
+      "microphone",
+      "man",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_3.png": {
+    "tags": [
+      "cast",
+      "vampire",
+      "panel",
+      "diaries"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_4.png": {
+    "tags": [
+      "man",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "058_5.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_0.png": {
+    "tags": [
+      "white",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_1.png": {
+    "tags": [
+      "front",
+      "woman",
+      "standing",
+      "wall",
+      "brick"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_2.png": {
+    "tags": [
+      "sign",
+      "fireplace"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_3.png": {
+    "tags": [
+      "white",
+      "curtain"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_4.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "059_5.png": {
+    "tags": [
+      "suit",
+      "black",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_0.png": {
+    "tags": [
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_1.png": {
+    "tags": [
+      "girl",
+      "sitting",
+      "woman",
+      "table",
+      "little"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_2.png": {
+    "tags": [
+      "sitting",
+      "girl",
+      "woman",
+      "table",
+      "little"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_3.png": {
+    "tags": [
+      "child",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_4.png": {
+    "tags": [
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "060_5.png": {
+    "tags": [
+      "shirt",
+      "pink",
+      "wearing",
+      "girl"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_0.png": {
+    "tags": [
+      "running",
+      "race",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_1.png": {
+    "tags": [
+      "running",
+      "man",
+      "race"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_2.png": {
+    "tags": [
+      "people",
+      "group",
+      "running"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_3.png": {
+    "tags": [
+      "running",
+      "man",
+      "race"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_4.png": {
+    "tags": [
+      "running",
+      "man",
+      "race"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "061_5.png": {
+    "tags": [
+      "running",
+      "race",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_0.png": {
+    "tags": [
+      "man",
+      "suit",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_1.png": {
+    "tags": [
+      "man",
+      "top",
+      "hat"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_2.png": {
+    "tags": [
+      "leopard",
+      "coat",
+      "wearing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_3.png": {
+    "tags": [
+      "picture",
+      "people",
+      "posing",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_4.png": {
+    "tags": [
+      "costume",
+      "dressed",
+      "as",
+      "bee",
+      "two",
+      "women"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "062_5.png": {
+    "tags": [
+      "dressed",
+      "man",
+      "as",
+      "clown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_0.png": {
+    "tags": [
+      "singing",
+      "man",
+      "microphone",
+      "into"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_1.png": {
+    "tags": [
+      "under",
+      "it",
+      "tables",
+      "chairs",
+      "tent"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_2.png": {
+    "tags": [
+      "people",
+      "group",
+      "tent",
+      "dancing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_3.png": {
+    "tags": [
+      "people",
+      "two",
+      "sitting",
+      "theater"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_4.png": {
+    "tags": [
+      "people",
+      "group",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "063_5.png": {
+    "tags": [
+      "picture",
+      "man",
+      "posing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_0.png": {
+    "tags": [
+      "stage",
+      "woman",
+      "standing",
+      "next",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_1.png": {
+    "tags": [
+      "man",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_2.png": {
+    "tags": [
+      "stage",
+      "two",
+      "standing",
+      "sign",
+      "women"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_3.png": {
+    "tags": [
+      "man",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_4.png": {
+    "tags": [
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "064_5.png": {
+    "tags": [
+      "cloth",
+      "table",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_0.png": {
+    "tags": [
+      "walkway",
+      "large",
+      "brick"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_1.png": {
+    "tags": [
+      "paved",
+      "road",
+      "brick",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_2.png": {
+    "tags": [
+      "people",
+      "green",
+      "group",
+      "costumes"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_3.png": {
+    "tags": [
+      "christmas",
+      "tree",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_4.png": {
+    "tags": [
+      "clock",
+      "castle"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "065_5.png": {
+    "tags": [
+      "background",
+      "castle"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_0.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_1.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_2.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_3.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_4.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "066_5.png": {
+    "tags": [
+      "large",
+      "holding",
+      "room",
+      "person",
+      "sign"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_0.png": {
+    "tags": [
+      "man",
+      "scene",
+      "performing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_1.png": {
+    "tags": [
+      "stage",
+      "scene"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_2.png": {
+    "tags": [
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_3.png": {
+    "tags": [
+      "circus",
+      "scene"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_4.png": {
+    "tags": [
+      "people",
+      "stage"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "067_5.png": {
+    "tags": [
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_0.png": {
+    "tags": [
+      "graduates",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_1.png": {
+    "tags": [
+      "people",
+      "group",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_2.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_3.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_4.png": {
+    "tags": [
+      "graduates",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "068_5.png": {
+    "tags": [
+      "graduates",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_0.png": {
+    "tags": [
+      "shirt",
+      "green",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_1.png": {
+    "tags": [
+      "boy",
+      "man",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_2.png": {
+    "tags": [
+      "cloth",
+      "table",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_3.png": {
+    "tags": [
+      "boy",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_4.png": {
+    "tags": [
+      "man",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "069_5.png": {
+    "tags": [
+      "cloth",
+      "table",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_0.png": {
+    "tags": [
+      "white",
+      "boat",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_1.png": {
+    "tags": [
+      "body",
+      "large",
+      "water"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_2.png": {
+    "tags": [
+      "boat",
+      "water"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_3.png": {
+    "tags": [
+      "bikini",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_4.png": {
+    "tags": [
+      "man",
+      "chair",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "070_5.png": {
+    "tags": [
+      "white",
+      "ship",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_0.png": {
+    "tags": [
+      "screen",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_1.png": {
+    "tags": [
+      "standing",
+      "man",
+      "projector",
+      "front"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_2.png": {
+    "tags": [
+      "standing",
+      "man",
+      "podium"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_3.png": {
+    "tags": [
+      "standing",
+      "man",
+      "projector",
+      "front"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_4.png": {
+    "tags": [
+      "screen",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "071_5.png": {
+    "tags": [
+      "cloth",
+      "table",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_0.png": {
+    "tags": [
+      "man",
+      "hair",
+      "long"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_1.png": {
+    "tags": [
+      "man",
+      "playing",
+      "drums"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_2.png": {
+    "tags": [
+      "stage",
+      "man",
+      "drum",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_3.png": {
+    "tags": [
+      "young",
+      "group",
+      "playing",
+      "instruments",
+      "room",
+      "men"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_4.png": {
+    "tags": [
+      "man",
+      "playing",
+      "drums"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "072_5.png": {
+    "tags": [
+      "man",
+      "guitar",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_0.png": {
+    "tags": [
+      "front",
+      "people",
+      "group",
+      "standing",
+      "flags"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_1.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_2.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_3.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "073_5.png": {
+    "tags": [
+      "man",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_0.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_1.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_2.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_3.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_4.png": {
+    "tags": [
+      "graduates",
+      "group",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "074_5.png": {
+    "tags": [
+      "graduates",
+      "group",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_0.png": {
+    "tags": [
+      "game",
+      "basketball"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_1.png": {
+    "tags": [
+      "player",
+      "basketball"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_2.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "uniform",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_3.png": {
+    "tags": [
+      "white",
+      "man",
+      "uniform",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "jersey",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "075_5.png": {
+    "tags": [
+      "player",
+      "basketball"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_0.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_1.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_2.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_3.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_4.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "076_5.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_0.png": {
+    "tags": [
+      "woman",
+      "s",
+      "graduation",
+      "hand",
+      "gown",
+      "man",
+      "'",
+      "shaking"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_1.png": {
+    "tags": [
+      "woman",
+      "s",
+      "graduation",
+      "hand",
+      "gown",
+      "man",
+      "'",
+      "shaking"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_2.png": {
+    "tags": [
+      "shaking",
+      "man",
+      "graduation",
+      "gown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_3.png": {
+    "tags": [
+      "man",
+      "graduation",
+      "gown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_4.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "077_5.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_0.png": {
+    "tags": [
+      "bat",
+      "baseball",
+      "helmet",
+      "man",
+      "holding"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_1.png": {
+    "tags": [
+      "running",
+      "man",
+      "helmet",
+      "is"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_2.png": {
+    "tags": [
+      "white",
+      "man",
+      "jacket",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_3.png": {
+    "tags": [
+      "white",
+      "man",
+      "motorcycle",
+      "suit",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "helmet"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "078_5.png": {
+    "tags": [
+      "man",
+      "paintball"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_0.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_1.png": {
+    "tags": [
+      "front",
+      "woman",
+      "fireplace",
+      "standing",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_2.png": {
+    "tags": [
+      "front",
+      "woman",
+      "fireplace",
+      "standing",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_3.png": {
+    "tags": [
+      "baby",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "sweater"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "079_5.png": {
+    "tags": [
+      "picture",
+      "posing",
+      "family"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_0.png": {
+    "tags": [
+      "shirt",
+      "wearing",
+      "white",
+      "man",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_1.png": {
+    "tags": [
+      "wearing",
+      "man",
+      "black",
+      "jersey",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_2.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_3.png": {
+    "tags": [
+      "two",
+      "their",
+      "up",
+      "holding",
+      "podium",
+      "hands",
+      "men"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_4.png": {
+    "tags": [
+      "flowers",
+      "men",
+      "holding",
+      "are"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "080_5.png": {
+    "tags": [
+      "their",
+      "are",
+      "standing",
+      "podium",
+      "bikes",
+      "men"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_0.png": {
+    "tags": [
+      "front",
+      "standing",
+      "building",
+      "two",
+      "women"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_1.png": {
+    "tags": [
+      "front",
+      "standing",
+      "building",
+      "two",
+      "women"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_2.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_3.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_4.png": {
+    "tags": [
+      "front",
+      "standing",
+      "building",
+      "two",
+      "women"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "081_5.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_0.png": {
+    "tags": [
+      "castle",
+      "s",
+      "night",
+      "'",
+      "cinderella"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_1.png": {
+    "tags": [
+      "night",
+      "castle",
+      "cinderella"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_2.png": {
+    "tags": [
+      "sky",
+      "fireworks"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_3.png": {
+    "tags": [
+      "castle",
+      "fireworks",
+      "is",
+      "up",
+      "lit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_4.png": {
+    "tags": [
+      "castle",
+      "s",
+      "night",
+      "'",
+      "cinderella"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "082_5.png": {
+    "tags": [
+      "castle",
+      "fireworks",
+      "is",
+      "up",
+      "lit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_0.png": {
+    "tags": [
+      "yellow",
+      "tie",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_1.png": {
+    "tags": [
+      "flowers",
+      "bouquet"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_2.png": {
+    "tags": [
+      "bus",
+      "road"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_3.png": {
+    "tags": [
+      "man",
+      "bed",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_4.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "083_5.png": {
+    "tags": [
+      "man",
+      "kissing",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_0.png": {
+    "tags": [
+      "standing",
+      "man",
+      "podium"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_1.png": {
+    "tags": [
+      "standing",
+      "man",
+      "podium"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_2.png": {
+    "tags": [
+      "walkway",
+      "brick"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_3.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_4.png": {
+    "tags": [
+      "costume",
+      "man",
+      "mickey"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "084_5.png": {
+    "tags": [
+      "man",
+      "sign",
+      "holding"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_0.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_1.png": {
+    "tags": [
+      "people",
+      "group",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_2.png": {
+    "tags": [
+      "people",
+      "group",
+      "table",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_3.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "085_5.png": {
+    "tags": [
+      "people",
+      "table",
+      "sitting",
+      "panel"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_0.png": {
+    "tags": [
+      "ice",
+      "white",
+      "is"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_1.png": {
+    "tags": [
+      "hockey",
+      "net"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_2.png": {
+    "tags": [
+      "hockey",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_3.png": {
+    "tags": [
+      "ice",
+      "white",
+      "is"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_4.png": {
+    "tags": [
+      "hockey",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "086_5.png": {
+    "tags": [
+      "hockey",
+      "save",
+      "is",
+      "player",
+      "making"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_0.png": {
+    "tags": [
+      "man",
+      "graduation",
+      "gown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_1.png": {
+    "tags": [
+      "man",
+      "graduation",
+      "gown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_2.png": {
+    "tags": [
+      "man",
+      "graduation",
+      "gown"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_3.png": {
+    "tags": [
+      "standing",
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_4.png": {
+    "tags": [
+      "man",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "087_5.png": {
+    "tags": [
+      "standing",
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_0.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_1.png": {
+    "tags": [
+      "people",
+      "steps",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_2.png": {
+    "tags": [
+      "people",
+      "gathered",
+      "temple"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_3.png": {
+    "tags": [
+      "people",
+      "group",
+      "steps",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_4.png": {
+    "tags": [
+      "people",
+      "steps",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "088_5.png": {
+    "tags": [
+      "standing",
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_0.png": {
+    "tags": [
+      "picture",
+      "people",
+      "posing",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_1.png": {
+    "tags": [
+      "photo",
+      "people",
+      "posing",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_2.png": {
+    "tags": [
+      "photo",
+      "green",
+      "people",
+      "group",
+      "robes",
+      "posing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_3.png": {
+    "tags": [
+      "taking",
+      "self",
+      "is",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_4.png": {
+    "tags": [
+      "shirt",
+      "striped",
+      "white",
+      "baby",
+      "yellow"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "089_5.png": {
+    "tags": [
+      "man",
+      "bed",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_0.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "brown",
+      "jacket"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_1.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_2.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_3.png": {
+    "tags": [
+      "white",
+      "flowers",
+      "cake"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_4.png": {
+    "tags": [
+      "green",
+      "woman",
+      "people",
+      "around",
+      "group",
+      "standing",
+      "dress"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "090_5.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_0.png": {
+    "tags": [
+      "pink",
+      "hair",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_1.png": {
+    "tags": [
+      "pink",
+      "hair",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_2.png": {
+    "tags": [
+      "pink",
+      "hair",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_3.png": {
+    "tags": [
+      "ground",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_4.png": {
+    "tags": [
+      "pink",
+      "hair",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "091_5.png": {
+    "tags": [
+      "pink",
+      "hair",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_0.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_1.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_2.png": {
+    "tags": [
+      "field",
+      "green",
+      "is"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_3.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_4.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "092_5.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_0.png": {
+    "tags": [
+      "stage",
+      "large",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_1.png": {
+    "tags": [
+      "stage",
+      "large",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_2.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_3.png": {
+    "tags": [
+      "auditorium",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_4.png": {
+    "tags": [
+      "graduates",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "093_5.png": {
+    "tags": [
+      "graduates",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_0.png": {
+    "tags": [
+      "woman",
+      "other",
+      "people",
+      "standing",
+      "next",
+      "man",
+      "each"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_1.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_2.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_3.png": {
+    "tags": [
+      "woman",
+      "other",
+      "people",
+      "standing",
+      "next",
+      "man",
+      "each"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_4.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "094_5.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_0.png": {
+    "tags": [
+      "sitting",
+      "group",
+      "table",
+      "eating",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_1.png": {
+    "tags": [
+      "food",
+      "woman",
+      "eating",
+      "two",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_2.png": {
+    "tags": [
+      "child",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_3.png": {
+    "tags": [
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_4.png": {
+    "tags": [
+      "sitting",
+      "woman",
+      "table",
+      "two",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "095_5.png": {
+    "tags": [
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_0.png": {
+    "tags": [
+      "crowd",
+      "people",
+      "standing",
+      "building",
+      "outside"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_1.png": {
+    "tags": [
+      "standing",
+      "man",
+      "room",
+      "camera"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_2.png": {
+    "tags": [
+      "sitting",
+      "people",
+      "around",
+      "group",
+      "table"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_3.png": {
+    "tags": [
+      "child",
+      "pool",
+      "playing",
+      "ball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_4.png": {
+    "tags": [
+      "kitchen",
+      "woman",
+      "are",
+      "standing",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "096_5.png": {
+    "tags": [
+      "people",
+      "group",
+      "sitting",
+      "chairs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_0.png": {
+    "tags": [
+      "baby",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_1.png": {
+    "tags": [
+      "it",
+      "woman",
+      "house",
+      "holding",
+      "box",
+      "pink"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_2.png": {
+    "tags": [
+      "stroll",
+      "baby",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_3.png": {
+    "tags": [
+      "baby",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_4.png": {
+    "tags": [
+      "bear",
+      "teddy",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "097_5.png": {
+    "tags": [
+      "stroll",
+      "baby"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_0.png": {
+    "tags": [
+      "man",
+      "couch",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_1.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "red"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_2.png": {
+    "tags": [
+      "man",
+      "couch",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_3.png": {
+    "tags": [
+      "man",
+      "couch",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_4.png": {
+    "tags": [
+      "game",
+      "man",
+      "holding",
+      "wii",
+      "controller"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "098_5.png": {
+    "tags": [
+      "couch",
+      "boys",
+      "two",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_0.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_1.png": {
+    "tags": [
+      "man",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_2.png": {
+    "tags": [
+      "man",
+      "table",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_3.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "099_5.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_0.png": {
+    "tags": [
+      "santa",
+      "man",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_1.png": {
+    "tags": [
+      "santa",
+      "costume",
+      "girl"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_2.png": {
+    "tags": [
+      "boy",
+      "santa",
+      "sitting",
+      "clause"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_3.png": {
+    "tags": [
+      "chair",
+      "sitting",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_4.png": {
+    "tags": [
+      "santa",
+      "claus",
+      "chair",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "100_5.png": {
+    "tags": [
+      "claus",
+      "dressed",
+      "man",
+      "as",
+      "santa"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_0.png": {
+    "tags": [
+      "walking",
+      "group",
+      "sidewalk",
+      "kids",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_1.png": {
+    "tags": [
+      "walking",
+      "people",
+      "group",
+      "sidewalk",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_2.png": {
+    "tags": [
+      "standing",
+      "people",
+      "sidewalk",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_3.png": {
+    "tags": [
+      "walking",
+      "people",
+      "group",
+      "sidewalk",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_4.png": {
+    "tags": [
+      "woman",
+      "are",
+      "standing",
+      "sidewalk",
+      "boy"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "101_5.png": {
+    "tags": [
+      "walking",
+      "group",
+      "sidewalk",
+      "down",
+      "children"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_0.png": {
+    "tags": [
+      "stadium",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_1.png": {
+    "tags": [
+      "people",
+      "group",
+      "large"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_2.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_3.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_4.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "102_5.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_0.png": {
+    "tags": [
+      "cake",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_1.png": {
+    "tags": [
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_2.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_3.png": {
+    "tags": [
+      "shirt",
+      "red",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_4.png": {
+    "tags": [
+      "people",
+      "two",
+      "kitchen"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "103_5.png": {
+    "tags": [
+      "woman",
+      "table",
+      "man",
+      "doing",
+      "trick"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_0.png": {
+    "tags": [
+      "baseball",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_1.png": {
+    "tags": [
+      "baseball",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_2.png": {
+    "tags": [
+      "baseball",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_3.png": {
+    "tags": [
+      "is",
+      "played",
+      "baseball",
+      "game",
+      "stadium",
+      "being"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_4.png": {
+    "tags": [
+      "baseball",
+      "game"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "104_5.png": {
+    "tags": [
+      "is",
+      "played",
+      "baseball",
+      "game",
+      "stadium",
+      "being"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_0.png": {
+    "tags": [
+      "microphone",
+      "man",
+      "into",
+      "speaking"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_1.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "striped"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_2.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "striped"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_3.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "striped"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_4.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "striped"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "105_5.png": {
+    "tags": [
+      "vest",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_0.png": {
+    "tags": [
+      "wedding",
+      "under",
+      "white",
+      "arch",
+      "standing",
+      "couple"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_1.png": {
+    "tags": [
+      "wedding",
+      "under",
+      "white",
+      "arch",
+      "standing",
+      "couple"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_2.png": {
+    "tags": [
+      "wedding",
+      "ceremony",
+      "front",
+      "woman",
+      "standing",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_3.png": {
+    "tags": [
+      "wedding",
+      "front",
+      "woman",
+      "cake",
+      "standing",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_4.png": {
+    "tags": [
+      "groom",
+      "bride"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "106_5.png": {
+    "tags": [
+      "walking",
+      "bride",
+      "down",
+      "aisle"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_0.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_1.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_2.png": {
+    "tags": [
+      "man",
+      "chair",
+      "sitting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_3.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_4.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "107_5.png": {
+    "tags": [
+      "man",
+      "wearing",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_0.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_1.png": {
+    "tags": [
+      "graduates",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_2.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_3.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_4.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "108_5.png": {
+    "tags": [
+      "stairs",
+      "walking",
+      "people",
+      "group",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_0.png": {
+    "tags": [
+      "field",
+      "green",
+      "is"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_1.png": {
+    "tags": [
+      "field",
+      "football"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_2.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_3.png": {
+    "tags": [
+      "field",
+      "football"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_4.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "109_5.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_0.png": {
+    "tags": [
+      "playing",
+      "people",
+      "group",
+      "frc"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_1.png": {
+    "tags": [
+      "frc",
+      "game",
+      "group",
+      "playing",
+      "men"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_2.png": {
+    "tags": [
+      "playing",
+      "people",
+      "group",
+      "frc"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_3.png": {
+    "tags": [
+      "playing",
+      "people",
+      "group",
+      "frc"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_4.png": {
+    "tags": [
+      "men",
+      "group",
+      "frc",
+      "playing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "110_5.png": {
+    "tags": [
+      "frc",
+      "young",
+      "group",
+      "playing",
+      "men"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_0.png": {
+    "tags": [
+      "man",
+      "sign",
+      "holding"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_1.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_2.png": {
+    "tags": [
+      "man",
+      "bench"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_3.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_4.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "111_5.png": {
+    "tags": [
+      "standing",
+      "people",
+      "group",
+      "outside"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_0.png": {
+    "tags": [
+      "boy",
+      "standing",
+      "bowling",
+      "ball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_1.png": {
+    "tags": [
+      "boy",
+      "bowling",
+      "holding",
+      "ball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_2.png": {
+    "tags": [
+      "boy",
+      "shirt",
+      "wearing",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_3.png": {
+    "tags": [
+      "boy",
+      "shirt",
+      "wearing",
+      "gray"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_4.png": {
+    "tags": [
+      "boy",
+      "shirt",
+      "wearing",
+      "gray"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "112_5.png": {
+    "tags": [
+      "boy",
+      "bowling",
+      "holding",
+      "ball"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_0.png": {
+    "tags": [
+      "standing",
+      "man",
+      "room",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_1.png": {
+    "tags": [
+      "dress",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_2.png": {
+    "tags": [
+      "vest",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_3.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "blue"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_4.png": {
+    "tags": [
+      "woman",
+      "table",
+      "standing",
+      "next",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "113_5.png": {
+    "tags": [
+      "cutting",
+      "cake",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_0.png": {
+    "tags": [
+      "woman",
+      "decor",
+      "man",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_1.png": {
+    "tags": [
+      "woman",
+      "decor",
+      "man",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_2.png": {
+    "tags": [
+      "floor",
+      "man",
+      "laying"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_3.png": {
+    "tags": [
+      "woman",
+      "decor",
+      "man",
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_4.png": {
+    "tags": [
+      "standing",
+      "kitchen",
+      "man",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "114_5.png": {
+    "tags": [
+      "christmas",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_0.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "striped"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_1.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_2.png": {
+    "tags": [
+      "paper",
+      "woman",
+      "up",
+      "man",
+      "holding",
+      "flowers",
+      "bunch"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_3.png": {
+    "tags": [
+      "pink",
+      "dress",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_4.png": {
+    "tags": [
+      "room",
+      "piano"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "115_5.png": {
+    "tags": [
+      "room",
+      "piano"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_0.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_1.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_2.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_3.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_4.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "116_5.png": {
+    "tags": [
+      "woman",
+      "cake",
+      "standing",
+      "next",
+      "man"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_0.png": {
+    "tags": [
+      "christmas",
+      "man",
+      "working",
+      "tree"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_1.png": {
+    "tags": [
+      "christmas",
+      "tree",
+      "room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_2.png": {
+    "tags": [
+      "christmas",
+      "tree",
+      "room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_3.png": {
+    "tags": [
+      "christmas",
+      "tree",
+      "room"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_4.png": {
+    "tags": [
+      "man",
+      "ladder"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "117_5.png": {
+    "tags": [
+      "tree",
+      "room"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_0.png": {
+    "tags": [
+      "woman",
+      "room",
+      "dancing",
+      "red",
+      "dress"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_1.png": {
+    "tags": [
+      "painting",
+      "wall"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_2.png": {
+    "tags": [
+      "dress",
+      "red",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_3.png": {
+    "tags": [
+      "dress",
+      "red",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_4.png": {
+    "tags": [
+      "pink",
+      "dress",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "118_5.png": {
+    "tags": [
+      "colorful",
+      "dress",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_0.png": {
+    "tags": [
+      "large",
+      "people",
+      "around",
+      "group",
+      "standing",
+      "screen"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_1.png": {
+    "tags": [
+      "standing",
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_2.png": {
+    "tags": [
+      "people",
+      "dressed",
+      "group",
+      "as",
+      "witches"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_3.png": {
+    "tags": [
+      "people",
+      "stage",
+      "group",
+      "costumes"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_4.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "119_5.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_0.png": {
+    "tags": [
+      "stage",
+      "standing",
+      "man",
+      "tie",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_1.png": {
+    "tags": [
+      "standing",
+      "people",
+      "stage",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_2.png": {
+    "tags": [
+      "graduation",
+      "gown",
+      "man",
+      "giving",
+      "speech"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_3.png": {
+    "tags": [
+      "standing",
+      "microphone",
+      "man",
+      "podium"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_4.png": {
+    "tags": [
+      "people",
+      "large",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "120_5.png": {
+    "tags": [
+      "people",
+      "crowd"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_0.png": {
+    "tags": [
+      "walking",
+      "is",
+      "tiger"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_1.png": {
+    "tags": [
+      "walking",
+      "rock",
+      "tiger"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_2.png": {
+    "tags": [
+      "is",
+      "down",
+      "tiger",
+      "laying"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_3.png": {
+    "tags": [
+      "laying",
+      "tiger",
+      "ground"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_4.png": {
+    "tags": [
+      "laying",
+      "tiger",
+      "ground"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "121_5.png": {
+    "tags": [
+      "is",
+      "down",
+      "tiger",
+      "laying"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_0.png": {
+    "tags": [
+      "walking",
+      "people",
+      "group",
+      "sidewalk",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_1.png": {
+    "tags": [
+      "walking",
+      "man",
+      "sidewalk",
+      "tie",
+      "down",
+      "suit"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_2.png": {
+    "tags": [
+      "walking",
+      "people",
+      "group",
+      "sidewalk",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_3.png": {
+    "tags": [
+      "walking",
+      "people",
+      "group",
+      "street",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_4.png": {
+    "tags": [
+      "bike",
+      "woman",
+      "city",
+      "street",
+      "riding",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "122_5.png": {
+    "tags": [
+      "woman",
+      "walking",
+      "sidewalk",
+      "bag",
+      "down"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_0.png": {
+    "tags": [
+      "microphone",
+      "man",
+      "holding"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_1.png": {
+    "tags": [
+      "shirt",
+      "man",
+      "wearing",
+      "black"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_2.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_3.png": {
+    "tags": [
+      "microphone",
+      "holding",
+      "woman"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_4.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "123_5.png": {
+    "tags": [
+      "people",
+      "group",
+      "holding",
+      "signs"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_0.png": {
+    "tags": [
+      "groom",
+      "bride",
+      "dancing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_1.png": {
+    "tags": [
+      "wedding",
+      "their",
+      "cake",
+      "groom",
+      "cutting",
+      "bride"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_2.png": {
+    "tags": [
+      "groom",
+      "bride",
+      "dancing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_3.png": {
+    "tags": [
+      "groom",
+      "bride",
+      "cake",
+      "cutting"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_4.png": {
+    "tags": [
+      "wedding",
+      "cake"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "124_5.png": {
+    "tags": [
+      "men",
+      "standing",
+      "two",
+      "together"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_0.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing",
+      "presents"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_1.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_2.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_3.png": {
+    "tags": [
+      "people",
+      "group"
+    ],
+    "tag_predictions": [
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_4.png": {
+    "tags": [
+      "shirt",
+      "white",
+      "man",
+      "wearing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  },
+  "125_5.png": {
+    "tags": [
+      "people",
+      "around",
+      "group",
+      "table",
+      "standing"
+    ],
+    "tag_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "cluster_prediction": 1
+  }
+}
