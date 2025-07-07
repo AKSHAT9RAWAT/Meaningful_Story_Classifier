@@ -90,6 +90,112 @@
 # print(classification_report(y_true, y_pred))
 
 
+# import json
+# import torch
+# import torch.nn as nn
+# from sklearn.model_selection import train_test_split
+# from sklearn.metrics import classification_report
+# from torch.utils.data import Dataset, DataLoader
+# from torch.nn.utils.rnn import pad_sequence
+
+# # ---------------- Configuration ----------------
+# EMBED_DIM = 32
+# HIDDEN_DIM = 64
+# EPOCHS = 50
+# BATCH_SIZE = 16
+# LEARNING_RATE = 0.001
+# MODEL_PATH = "tag_model.pt"
+# VOCAB_PATH = "tag2idx.json"
+# DATA_PATH = "final_groundtruth.json"  # <-- Put your dataset here
+
+# # ---------------- Dataset and Vocab ----------------
+# class TagDataset(Dataset):
+#     def __init__(self, data_dict, tag2idx):
+#         self.samples = []
+#         for entry in data_dict.values():
+#             tag_indices = [tag2idx[tag] for tag in entry["tags"] if tag in tag2idx]
+#             self.samples.append((tag_indices, entry["label"]))
+
+#     def __len__(self):
+#         return len(self.samples)
+
+#     def __getitem__(self, idx):
+#         return self.samples[idx]
+
+# def collate_fn(batch):
+#     tag_lists, labels = zip(*batch)
+#     padded = pad_sequence([torch.tensor(t) for t in tag_lists], batch_first=True)
+#     labels = torch.tensor(labels, dtype=torch.float32).unsqueeze(1)
+#     return padded, labels
+
+# # ---------------- Model ----------------
+# class TagMLP(nn.Module):
+#     def __init__(self, vocab_size, embed_dim=32, hidden_dim=64):
+#         super().__init__()
+#         self.embedding = nn.Embedding(vocab_size, embed_dim)
+#         self.mlp = nn.Sequential(
+#             nn.Linear(embed_dim, hidden_dim),
+#             nn.ReLU(),
+#             nn.Linear(hidden_dim, 1),
+#             nn.Sigmoid()
+#         )
+
+#     def forward(self, tag_indices):
+#         embeds = self.embedding(tag_indices)      # [batch, seq, dim]
+#         mean_embed = embeds.mean(dim=1)           # [batch, dim]
+#         return self.mlp(mean_embed)
+
+# # ---------------- Main Training ----------------
+# if __name__ == "__main__":
+#     with open(DATA_PATH, "r") as f:
+#         data = json.load(f)
+
+#     # Build vocabulary
+#     all_tags = set(tag for d in data.values() for tag in d["tags"])
+#     tag2idx = {tag: i for i, tag in enumerate(sorted(all_tags))}
+#     with open(VOCAB_PATH, "w") as f:
+#         json.dump(tag2idx, f)
+
+#     # Prepare datasets
+#     dataset = TagDataset(data, tag2idx)
+#     train_set, test_set = train_test_split(dataset, test_size=0.2, random_state=42)
+#     train_loader = DataLoader(train_set, batch_size=BATCH_SIZE, shuffle=True, collate_fn=collate_fn)
+#     test_loader = DataLoader(test_set, batch_size=BATCH_SIZE, shuffle=False, collate_fn=collate_fn)
+
+#     model = TagMLP(len(tag2idx), EMBED_DIM, HIDDEN_DIM)
+#     loss_fn = nn.BCELoss()
+#     optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
+
+#     # Training loop
+#     for epoch in range(EPOCHS):
+#         model.train()
+#         total_loss = 0
+#         for tags, labels in train_loader:
+#             preds = model(tags)
+#             loss = loss_fn(preds, labels)
+#             optimizer.zero_grad()
+#             loss.backward()
+#             optimizer.step()
+#             total_loss += loss.item()
+#         print(f"Epoch {epoch+1}/{EPOCHS} - Loss: {total_loss:.4f}")
+
+#     # Save model
+#     torch.save(model.state_dict(), MODEL_PATH)
+
+#     # Evaluation
+#     model.eval()
+#     y_true, y_pred = [], []
+#     with torch.no_grad():
+#         for tags, labels in test_loader:
+#             preds = model(tags)
+#             pred_classes = (preds > 0.5).int().squeeze().tolist()
+#             y_pred.extend(pred_classes)
+#             y_true.extend(labels.squeeze().tolist())
+
+#     print("\nClassification Report:")
+#     print(classification_report(y_true, y_pred))
+
+
 import json
 import torch
 import torch.nn as nn
@@ -97,16 +203,17 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
+from model import TagMLP
 
 # ---------------- Configuration ----------------
 EMBED_DIM = 32
 HIDDEN_DIM = 64
-EPOCHS = 50
+EPOCHS = 100
 BATCH_SIZE = 16
-LEARNING_RATE = 0.001
-MODEL_PATH = "tag_model.pt"
-VOCAB_PATH = "tag2idx.json"
-DATA_PATH = "final_groundtruth.json"  # <-- Put your dataset here
+LR = 0.001
+MODEL_PATH = "tag1_model.pt"
+VOCAB_PATH = "tag2idx1.json"
+DATA_PATH = "a.json"  # Your dataset path
 
 # ---------------- Dataset and Vocab ----------------
 class TagDataset(Dataset):
@@ -128,23 +235,6 @@ def collate_fn(batch):
     labels = torch.tensor(labels, dtype=torch.float32).unsqueeze(1)
     return padded, labels
 
-# ---------------- Model ----------------
-class TagMLP(nn.Module):
-    def __init__(self, vocab_size, embed_dim=32, hidden_dim=64):
-        super().__init__()
-        self.embedding = nn.Embedding(vocab_size, embed_dim)
-        self.mlp = nn.Sequential(
-            nn.Linear(embed_dim, hidden_dim),
-            nn.ReLU(),
-            nn.Linear(hidden_dim, 1),
-            nn.Sigmoid()
-        )
-
-    def forward(self, tag_indices):
-        embeds = self.embedding(tag_indices)      # [batch, seq, dim]
-        mean_embed = embeds.mean(dim=1)           # [batch, dim]
-        return self.mlp(mean_embed)
-
 # ---------------- Main Training ----------------
 if __name__ == "__main__":
     with open(DATA_PATH, "r") as f:
@@ -164,7 +254,7 @@ if __name__ == "__main__":
 
     model = TagMLP(len(tag2idx), EMBED_DIM, HIDDEN_DIM)
     loss_fn = nn.BCELoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
+    optimizer = torch.optim.Adam(model.parameters(), lr=LR)
 
     # Training loop
     for epoch in range(EPOCHS):
@@ -182,15 +272,28 @@ if __name__ == "__main__":
     # Save model
     torch.save(model.state_dict(), MODEL_PATH)
 
+    # After training
+importance_weights = model.importance.weight.data.squeeze()
+tag2idx = json.load(open("tag2idx.json"))
+
+# Top 20 tags by weight
+top_tags = sorted(tag2idx, key=lambda tag: importance_weights[tag2idx[tag]].item(), reverse=True)
+print("Top learned important tags:")
+for tag in top_tags[:20]:
+    print(tag)
+
+
     # Evaluation
     model.eval()
     y_true, y_pred = [], []
     with torch.no_grad():
         for tags, labels in test_loader:
             preds = model(tags)
-            pred_classes = (preds > 0.5).int().squeeze().tolist()
+            pred_classes = (preds > 0.75).int().squeeze().tolist()
             y_pred.extend(pred_classes)
             y_true.extend(labels.squeeze().tolist())
 
     print("\nClassification Report:")
+    from sklearn.metrics import accuracy_score
     print(classification_report(y_true, y_pred))
+    print(f"Accuracy: {accuracy_score(y_true, y_pred):.4f}")
